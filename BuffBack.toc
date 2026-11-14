@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: BuffBack
+## Notes: Offers a return buff when another player buffs you.
+## Author: BuffBack
+## Version: 0.2.0
+## SavedVariablesPerCharacter: BuffBackDB
+
+BuffBack.lua
