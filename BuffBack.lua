@@ -779,7 +779,6 @@ local function createUI()
 
     button.icon = button:CreateTexture(nil, "ARTWORK")
     button.icon:SetAllPoints()
-    button:SetNormalTexture("Interface\\Buttons\\UI-Quickslot2")
     button:SetHighlightTexture("Interface\\Buttons\\ButtonHilight-Square", "ADD")
 
     button:SetScript("PreClick", function(_, mouseButton)
